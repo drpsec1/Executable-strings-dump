@@ -1,0 +1,3 @@
+Modify the line listing the files to search for. Add the correct files to your needs. Then save the file and execute 
+'python search_exe.py path_to_your_executable.exe' 
+Do not add the path directly into the script. It is written to generically search any file you provide.
